@@ -7,3 +7,5 @@ Mon projet est une application qui fait la gestion des trips entre les amis , vo
 
 <h4>Diagramme de classe :</h4>
 <img width="563" alt="image" src="https://github.com/user-attachments/assets/ad338b59-60e1-4f02-af8c-0db7a3a1b63c">
+<h4>Diagramme de séquence :</h4>
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/e74ac833-a00a-4f15-8b81-03a7a911fdd2">
